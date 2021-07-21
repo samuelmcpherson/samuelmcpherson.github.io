@@ -1,0 +1,63 @@
+# section information
+section:
+  name: Experiences
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+- company:
+    name: PowerON Services inc,
+    url: "https://poweron.com"
+    location: Roseville, CA
+    # company overview
+    overview: 
+  positions:
+  - designation: IT Associate
+    start: February 2020
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Part of a two person team responsible for all IT operations for a small computer and mobile device refurbishment company
+    - Duties and responsibilities include network and server setup and administration as well as desktop support for our departments
+    - Experience with automation and eliminating single points of failure in order to improve the robustness of critical systems
+    - Improving business processes and providing tools to increase the efficiency of our departments 
+
+  - designation: Acting IT Manager
+    start: June 2021
+    end: July 2021
+    responsibilities:
+    - Making IT decisions at a company level to best support our business. Budgeting and approving IT expenditures and accounts
+    - Interviewing and training new IT associate to support our current systems
+
+- company:
+    name: PowerON Services through Sillicon Valley Staffing
+    url: "https://poweron.com"
+    location:  Roseville, CA
+    overview: Hired as a temporary worker 
+  positions:
+  - designation: Computer Repair Technician
+    start: July 2019
+    end: February 2020
+    responsibilities:
+    - Repair focussed on all Apple computers, predominantly Macbook Pro, Macbook Air and iMac devices
+    
+
+- company:
+    name: Seto, Wood & Schweickert LLP
+    url: "https://www.example.com"
+    location: Pleasant Hill, CA
+    overview: Reccomended by Software develment manager
+  positions:
+  - designation: IT Consulting and Network Setup
+    start: March 2021
+    end: April 2021
+    responsibilities:
+    - Setting up small office network for a legal firm moving to a new office and transitioning to VoIP phones
+    - Planning network layout and reccomending equipment, setting up SonicWall firewall/router to provide quality of service for VoIP phones
+    

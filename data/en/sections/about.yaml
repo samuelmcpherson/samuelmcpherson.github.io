@@ -1,0 +1,80 @@
+# section information
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# your designation
+designation: IT Associate
+# your company information
+company:
+  name: PowerON Services inc.
+  url: "https://poweron.com"
+
+# your resume. this file path should be relative to you "static" directory
+resume: "files/SamuelMcPhersonResume.pdf"
+
+# a summary about you
+summary: 'I enjoy working the most with Linux based systems and have been using it for over eight years. My lab enviroment is primarily used to practice optimizing network and storage perfomance as well as learning newer technologies such as Docker containers and Ansible configuration management'
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Email
+  icon: "fas fa-envelope"
+  url: "contact@samuelmcpherson.net"
+
+- name: Github
+  icon: "fab fa-github"
+  url: "https://www.github.com/example"
+
+- name: Stackoverflow
+  icon: "fab fa-stack-overflow"
+  url: "#"
+
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/samuel-mcpherson/"
+
+# Show your badges
+# You can show your verifiable certificates from https://www.credly.com.
+# You can also show a circular bar indicating the level of expertise on a certain skill
+badges:
+- type: certification
+  name: CompTIA A+
+  url: "https://www.comptia.org/certifications/a"
+  badge: "https://comptiawebsite.blob.core.windows.net/webcontent/images/default-source/siteicons/logoaplus.svg?sfvrsn=5ee1de19_2"
+
+- type: certification
+  name: CompTIA Network+
+  url: "https://www.comptia.org/certifications/network"
+  badge: "https://comptiawebsite.blob.core.windows.net/webcontent/images/default-source/siteicons/logonetworkplus.svg?sfvrsn=1ca21668_2"
+
+- type: certification
+  name: CompTIA Security+
+  url: "https://www.comptia.org/certifications/security"
+  badge: "https://comptiawebsite.blob.core.windows.net/webcontent/images/default-source/siteicons/logosecurityplus.svg?sfvrsn=1ca21668_2"
+
+- type: soft-skill-indicator
+  name: Leadership
+  percentage: 85
+  color: blue
+
+- type: soft-skill-indicator
+  name: Team Work
+  percentage: 90
+  color: yellow
+
+- type: soft-skill-indicator
+  name: Hard Working
+  percentage: 85
+  color: orange
+
+# you can also provide color code instead of the color name
+# - type: soft-skill-indicator
+#   name: Example 1
+#   percentage: 75
+#   color: "#00adb5"
