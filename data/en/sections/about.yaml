@@ -31,10 +31,6 @@ socialLinks:
   icon: "fab fa-github"
   url: "https://www.github.com/example"
 
-- name: Stackoverflow
-  icon: "fab fa-stack-overflow"
-  url: "#"
-
 - name: LinkedIn
   icon: "fab fa-linkedin"
   url: "https://www.linkedin.com/in/samuel-mcpherson/"
@@ -57,21 +53,6 @@ badges:
   name: CompTIA Security+
   url: "https://www.comptia.org/certifications/security"
   badge: "https://comptiawebsite.blob.core.windows.net/webcontent/images/default-source/siteicons/logosecurityplus.svg?sfvrsn=1ca21668_2"
-
-- type: soft-skill-indicator
-  name: Leadership
-  percentage: 85
-  color: blue
-
-- type: soft-skill-indicator
-  name: Team Work
-  percentage: 90
-  color: yellow
-
-- type: soft-skill-indicator
-  name: Hard Working
-  percentage: 85
-  color: orange
 
 # you can also provide color code instead of the color name
 # - type: soft-skill-indicator
