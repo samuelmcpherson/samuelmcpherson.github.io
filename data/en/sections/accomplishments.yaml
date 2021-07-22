@@ -1,0 +1,20 @@
+# section information
+section:
+  name: Accomplishments
+  id: accomplishments
+  enable: true
+  weight: 7
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+
+# Your accomplishments
+accomplishments:
+- name: Eagle Scout
+  timeline: "May 2014"
+  organization:
+    name: Boy scouts of america
+    url: https://www.scouting.org/programs/scouts-bsa/
+  courseOverview: I achieved the rank of eagle scout with Troop 466 of The Boy Scouts of America.
+#  certificateURL: "https://example.com"
