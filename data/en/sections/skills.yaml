@@ -13,15 +13,29 @@ section:
 skills:
 - name: Linux
   logo: /images/sections/skills/linux.png
-  summary: "Used as main operating system for the last nine years. Good at writing bash/shell scripts for automating basic tasks and system deployment."
-  url: "https://www.docker.com/"
+  summary: "Used as main operating system for the last nine years. I am experienced with managing Debian based systems such as Ubuntu and Proxmox as well as Red Hat based distributions, such as CentOS and Fedora."
+  url: "https://www.linuxfoundation.org/"
+
+- name: Bash
+  logo: /images/sections/skills/bash.png
+  summary: "Good at writing bash shell scripts for automating tasks such as backups, restores, system deployment and system configuration."
+  url: "https://www.gnu.org/software/bash/"
 
 - name: Docker
   logo: /images/sections/skills/docker.svg
-  summary: "Dockerize all of things"
+  summary: "I am experienced with using docker to deploy software and using declaritive configuration such as Docker-Compose and Docker Swarm to manage containers."
   url: "https://www.docker.com/"
 
 - name: Git
   logo: /images/sections/skills/git.png
-  summary: "Experienced with git-based development. Mostly, using Github."
+  summary: "I use git heavily for organizing my projects, both personal and professional. Most of my experience has been with using GitHub to work collaboratively on scripts and tools as well as using GitHub to centralize configuration files across server deployments using deploy keys."
   url: "https://git-scm.com/"
+
+- name: Cisco
+  logo: /images/sections/skills/cisco.png
+  summary: "I have experience with deploying and managing a wide range of Cisco switches. Configuring VLANS and PoE across a large network to manage dapartment access to internal resources. I am proficient in using the Cisco IOS command line." 
+  url: "https://www.cisco.com/"
+
+
+
+
