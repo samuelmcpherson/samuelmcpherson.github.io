@@ -18,7 +18,7 @@ company:
 resume: "files/SamuelMcPhersonResume.pdf"
 
 # a summary about you
-summary: 'I enjoy working the most with Linux based systems and have nine years of experience using them. In addition to my work at PowerOn, I actively maintain a home lab environment to continue learning and keep my skills sharp. My lab is primarily used to practice optimizing network and storage perfomance as well as learning newer technologies such as Docker containers and Ansible configuration management'
+summary: 'I enjoy working with Linux based systems and have nine years of experience using them. In addition to my work at PowerOn, I actively maintain a home lab environment to continue learning and keep my skills sharp. My lab is primarily used to practice optimizing network and storage perfomance as well as learning newer technologies such as Docker containers and Ansible configuration management'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -55,7 +55,7 @@ badges:
   badge: "https://comptiawebsite.blob.core.windows.net/webcontent/images/default-source/siteicons/logosecurityplus.svg?sfvrsn=1ca21668_2"
 
 # you can also provide color code instead of the color name
-# - type: soft-skill-indicator
-#   name: Example 1
-#   percentage: 75
-#   color: "#00adb5"
+#- type: soft-skill-indicator
+#  name: Working towards Red Hat Certified System Administrator
+#  percentage: 85
+#  color: "#00adb5"

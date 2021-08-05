@@ -3,36 +3,37 @@ section:
   name: Education
   id: education
   template: sections/education.html # Use "sections/education-alt.html for alternate template.
-  enable: false
+  enable: true
   weight: 4
-  showOnNavbar: false
+  showOnNavbar: true
   # Can optionally hide the title in sections
   # hideTitle: true
 
-#degrees:
-#- name: Ph.D in Quantum Cryptography
-#  icon: fa-microscope
-#  timeframe: 2016-2020
-#  institution:
-#    name: ABC University of Technology
-#    url: "#"
+
+degrees:
+- name: A.S. in Network Administration
+  icon: fa-sitemap
+  timeframe: 2017-2021
+  institution:
+    name: Sacramento City College
+    url: "https://scc.losrios.edu/"
 #  grade: #(optional)
 #    scale: CGPA
 #    achieved: 3.6
 #    outOf: 4
 #  publications: #(optional)
-#  - title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#  - title: Testing
 #    url: "#"
 #  - title: Fusce eu augue ut odio porttitor pulvinar.
 #    url: "#"
 #  - title: Nullam vitae orci tincidunt purus viverra pulvinar.
 #    url: "#"
-#- name: B.Sc. in Computer Science & Engineering
-#  icon: fa-graduation-cap
-#  timeframe: 2012-2016
-#  institution:
-#    name: University of XYZ
-#    url: "#"
+- name: Studied Computer Networking and System Administration
+  icon: fa-sitemap
+  timeframe: 2014-2015
+  institution:
+    name: Michigan Technological University
+    url: "https://www.mtu.edu/"
 #  grade: #(optional)
 #    scale: CGPA
 #    achieved: 3.5

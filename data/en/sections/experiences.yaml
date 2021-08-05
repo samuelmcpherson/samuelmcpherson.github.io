@@ -25,50 +25,67 @@ experiences:
     responsibilities:
     - Created a separate VLAN for testing improvements to our internal processes. This environment included the servers and tools that we use for processing incoming customer devices by securely wiping all storage devices and preparing these devices for in depth testing. This allowed for safely creating many improvements to these processes and the ability to address issues without interruptions to our production enviroments.
 
-    - Rewrote a bash script to automatically wipe all customer data and deploy the correct version of MacOS. This script is use to process all apple computers that we while collecting all relevant system information and setting them up for testing. The rewrite improved the reliability of the process and allowed me to make further improvements in the furture to keep up with changes to the Apple product line.
+    - Rewrote a bash script to automatically wipe all customer data from an Apple computer and deploy the correct version of MacOS while collecting all relevant system information and setting the unit up for testing. This script is central to our process for all apple computers that we process. The rewrite improved the reliability of the process and has allowed me to make continuous improvements to keep up with changes to the Apple product line while maintaining this tool.
 
-    - Created a bash script to automatically restore Apple computers to the initial setup prompt. This script deleted all testing accounts and files from Apple computers and restored them to - find good term for original purchase experience - once they have gone through our fullprocess and are ready to sell. This improved our customer experience and reduced the number of support calls to our sales team.
+    - Created a bash script to automatically restore Apple computers to the initial setup prompt. This script deleted all testing accounts and files from Apple computers and restored them to the initial Apple setup prompt, replicating a new purchase experience. This improved our customer experience and reduced the number of support calls to our sales team.
 
-    - Setup of Proxmox Virtual Environment as a replacement for VMWare ESXI. This included the integration of our existing Solaris based SAN to provide backend storage using ISCSI with LVM as well as the configuration of a three node virtualisation cluster supporting live migration and automatic failover of virtual machines.    
+    - Setup of Proxmox Virtual Environment as a replacement for VMWare ESXI. This included the integration of our existing Solaris based SAN to provide backend storage using ISCSI with LVM, as well as the configuration of a three node virtualisation cluster supporting live migration and automatic failover of virtual machines.    
 
-    - Setup of internal IT wiki using wikijs with a postgresql backend. This process also involved creating bash scripts to automatically backup the database contents nightly using pgdump as well as scripts to quickly re-create the wikijs installation and restore this backup on a new Linux system. 
+    - Setup of internal IT wiki using Wikijs with a PostgreSQL backend. This process also included creating bash scripts to automatically backup the database contents nightly using pgdump as well as scripts to quickly re-create the Wikijs installation and restore from this backup on a new Linux system. 
 
-    - Created of bash scripts to automate the configuration and setup of key Linux servers. These scripts would fully configure a Debian based Linux server from a fresh install for it's intended purpose. - created new system of deploying linux machines 
+    - Created of bash scripts to automate the configuration and setup of key Linux servers. These scripts would fully configure a Debian based Linux server from a fresh install for it's intended purpose.
 
-    - Created scripts to check battery health and peform CPU load testing for units] These scripts were hosted on an AWS EC2 instance for availability on our testing networks with no internal access using NFS. This improved the efficiency of our testing and repair departments. 
+    - Created scripts to check battery health and peform CPU load testing for units. These scripts were hosted on an AWS EC2 instance for availability on our testing networks with no internal access using NFS. This improved the efficiency of our testing and repair departments. 
 
-    - Maintained well organized repositories on GitHub for all scripts, configuration files, and projects for the IT department. - mention servers that require scripts, setup with deploy keys and cron to stay current - deploy keys and github repo used in new server deploy process, simplifies updating config files
+    - Maintained well organized private repositories on GitHub for all scripts, configuration files, and projects for the IT department.
 
   - designation: Acting IT Manager
     start: June 2021
     end: July 2021
     responsibilities:
-    - Making IT decisions at a company level to best support our business. Budgeting and approving IT expenditures and accounts
-    - Interviewing and training new IT associate to support our current systems
-
+    - Stepped into the role when the current IT manager started paternity leave
+    - Interviewed and trained a new IT associate to help with IT operations during this time
 - company:
-    name: PowerON Services through Sillicon Valley Staffing
+    name: PowerON Services 
     url: "https://poweron.com"
     location:  Roseville, CA
-    overview: Hired as a temporary worker 
+    overview: Hired as a temporary worker through Silicon Valley Staffing
   positions:
   - designation: Computer Repair Technician
     start: July 2019
     end: February 2020
     responsibilities:
+    - Started with efficiently testing devices in order to assign a grade to each unit and find all issues that require repair
     - Repair focussed on all Apple computers, predominantly Macbook Pro, Macbook Air and iMac devices
-    
 
 - company:
     name: Seto, Wood & Schweickert LLP
     url: "https://www.example.com"
     location: Pleasant Hill, CA
-    overview: Reccomended by Software develment manager
+    overview: Setting up small office network for a legal firm moving to a new office and transitioning to VoIP phones
   positions:
   - designation: IT Consulting and Network Setup
     start: March 2021
     end: April 2021
     responsibilities:
-    - Setting up small office network for a legal firm moving to a new office and transitioning to VoIP phones
-    - Planning network layout and reccomending equipment, setting up SonicWall firewall/router to provide quality of service for VoIP phones
+    - Planned network layout and reccomended equipment to satisfy all requirements while providing detailed explanations of the options available
+    - Setting up SonicWall firewall/router to provide quality of service for VoIP phones
+    - Setting up Cisco and Yealink phones with Vonage 
+    
+
+
+- company:
+    name: Regional Educational Media Center One
+    url: "https://www.remc1.org/"
+    location: Hancock, MI
+    overview: Providing IT infrastucture and support to over nineteen school districts in the Upper Peninsula of Michigan
+  positions:
+  - designation: Helpdesk Intern
+    start: September 2016
+    end: May 2017
+    responsibilities:
+    - Created install scripts for educational software requested by teachers and administrators that could be remotely pushed to any number of PCs on school district networks
+    - Re-organized and extended our Koha library to allow for teachers to easily check out electronic media as well as devices such as chromebooks 3d printers and educational robotics equipment
+
+    
     
