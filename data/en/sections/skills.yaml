@@ -13,7 +13,7 @@ section:
 skills:
 - name: Linux
   logo: /images/sections/skills/linux.png
-  summary: "Used as main operating system for the last nine years. I am experienced with Debian based systems such as Ubuntu and Proxmox, as well as Red Hat based distributions such as CentOS and Fedora."
+  summary: "I am experienced with Debian based systems such as Ubuntu and Proxmox, as well as Red Hat based distributions such as CentOS and Fedora. I am good at writing bash shell scripts for automating tasks such as backups, restores, system deployment and system configuration."
   url: "https://www.linuxfoundation.org/"
 
 - name: OpenZFS
@@ -41,15 +41,15 @@ skills:
   summary: "I have experience with deploying and managing a wide range of Cisco switches. Configuring VLANS across a large network to manage department access to internal resources." 
   url: "https://www.cisco.com/"
 
-- name: Proxmox Virtual Environment
-  logo: /images/sections/skills/proxmox.png
-  summary: "I use Proxmox for managing virtualization with KVM and QEMU." 
+- name: Virtualization/Hypervisors
+  logo: /images/sections/skills/virtualization.jpg
+  summary: "I have experience with using hypervisors such as VMWare ESXI and Proxmox VE. This includes setting up and managing multi node clusters to support live migration and automatic failover of VMs." 
   url: "https://www.proxmox.com/en/"
 
-- name: Bash
-  logo: /images/sections/skills/bash.png
-  summary: "I am Good at writing bash shell scripts for automating tasks such as backups, restores, system deployment and system configuration."
-  url: "https://www.gnu.org/software/bash/"
+- name: Server Deployment 
+  logo: /images/sections/skills/server-deployment.png
+  summary: "I have worked heavily with Dell servers and am comfortable with parting out as well as building out a wide range of server hardware."
+  #url: ""
 
 - name: Jira
   logo: /images/sections/skills/jira.png
