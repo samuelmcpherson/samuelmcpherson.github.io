@@ -8,7 +8,7 @@ section:
   template: sections/about.html
 
 # your designation
-designation: IT Associate
+designation: IT Associate/Linux Systems Administrator
 # your company information
 company:
   name: PowerON Services inc.
