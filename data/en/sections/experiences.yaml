@@ -25,7 +25,7 @@ experiences:
     responsibilities:
     - Created a separate VLAN for testing improvements to our internal processes. This environment included the servers and tools that we use for processing incoming customer devices by securely wiping all storage devices and preparing these devices for in depth testing. This allowed for safely creating many improvements to these processes and the ability to address issues without interruptions to our production enviroments.
 
-    - Rewrote a bash script to automatically wipe all customer data from an Apple computer and deploy the correct version of MacOS while collecting all relevant system information and setting the unit up for testing. This script is central to our process for all apple computers that we process. The rewrite improved the reliability of the process and has allowed me to make continuous improvements to keep up with changes to the Apple product line while maintaining this tool.
+    - Rewrote a bash script to automatically wipe all customer data from an Apple computer and deploy the correct version of MacOS while collecting all relevant system information and setting the unit up for testing. This script is central to our process for all apple computers that we handle. The rewrite improved the reliability of the process and has allowed me to make continuous improvements to keep up with changes to the Apple product line while maintaining this tool.
 
     - Setup of Proxmox Virtual Environment as a replacement for VMWare ESXI. This included the integration of our existing Solaris based SAN to provide backend storage using ISCSI with LVM, as well as the configuration of a three node virtualisation cluster supporting live migration and automatic failover of virtual machines.    
 
@@ -41,9 +41,9 @@ experiences:
     start: June 2021
     end: July 2021
     responsibilities:
-    - Stepped into the role when the current IT manager started paternity leave
+    - Stepped into the role when the current IT manager started paternity leave.
     
-    - Interviewed and trained a new IT associate to help with IT operations during this time
+    - Interviewed and trained a new IT associate to help with IT operations during this time.
 - company:
     name: PowerON Services 
     url: "https://poweron.com"
@@ -54,7 +54,7 @@ experiences:
     start: February 2020
     end: September 2020
     responsibilities:     
-    - Responsible for setting up accounts for over one hundred new hires and managing access to company resources through Active Directory and Google Workspace
+    - Responsible for setting up accounts for over one hundred new hires and managing access to company resources through Active Directory and Google Workspace.
     
     - Created a bash script to automatically restore Apple computers to the initial setup prompt. This script deleted all testing accounts and files from Apple computers and restored them to the initial Apple setup prompt, replicating a new purchase experience. This improved our customer experience and reduced the number of support calls to our sales team.
 
@@ -62,8 +62,8 @@ experiences:
     start: July 2019
     end: February 2020
     responsibilities:
-    - Started with efficiently testing devices in order to assign a grade to each unit and find all issues that require repair
-    - Repair focussed on all Apple computers, predominantly Macbook Pro, Macbook Air and iMac devices
+    - Started with efficiently testing devices in order to assign a grade to each unit and find all issues that require repair.
+    - Repair focussed on all Apple computers, predominantly Macbook Pro, Macbook Air and iMac devices.
 
 - company:
     name: Seto, Wood & Schweickert LLP
@@ -75,9 +75,9 @@ experiences:
     start: March 2021
     end: April 2021
     responsibilities:
-    - Planned network layout and reccomended equipment to satisfy all requirements while providing detailed explanations of the options available
-    - Setting up SonicWall firewall/router to provide quality of service for VoIP phones
-    - Setting up Cisco and Yealink phones with Vonage 
+    - Planned network layout and reccomended equipment to satisfy all requirements while providing detailed explanations of the options available.
+    - Setting up SonicWall firewall/router to provide quality of service for VoIP phones.
+    - Setting up Cisco and Yealink phones with Vonage.
     
 
 
@@ -91,8 +91,8 @@ experiences:
     start: September 2016
     end: May 2017
     responsibilities:
-    - Created install scripts for educational software requested by teachers and administrators that could be remotely pushed to any number of PCs on school district networks
-    - Re-organized and extended our Koha library to allow for teachers to easily check out electronic media as well as devices such as chromebooks 3d printers and educational robotics equipment
+    - Created install scripts for educational software requested by teachers and administrators that could be remotely pushed to any number of PCs on school district networks.
+    - Re-organized and extended our Koha library to allow for teachers to easily check out electronic media as well as devices such as chromebooks 3d printers and educational robotics equipment.
 
     
     
