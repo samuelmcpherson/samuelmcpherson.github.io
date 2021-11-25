@@ -15,9 +15,9 @@ experiences:
     url: "https://poweron.com"
     location: Roseville, CA
     # company overview
-    overview: PowerON Services is an international computer and mobile device refurbishment company based in Roseville Calfifornia.
+    overview: PowerON Services is an international computer and mobile device refurbishment company based in Roseville California.
   positions:
-  - designation: Linux Systems Administrator
+  - designation: System Administrator
     start: February 2020
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     # end: Dec 2020
