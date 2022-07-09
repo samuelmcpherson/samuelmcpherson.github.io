@@ -1,5 +1,5 @@
 # some information about you
-name: "Samuel McPherson"
+name: "Samuel McPherson-Gorham"
 nickname: "Sam" 
 # greeting message before your name. it will default to "Hi! I am" if not provided
 greeting: "Hello, I am"
@@ -11,5 +11,5 @@ contactInfo:
 
 # some summary about what you do
 summary:  
-  - I am a Network Engineer with a background in Linux and automation  
+  - I am a Network Security Engineer with a background in Linux and automation  
   
