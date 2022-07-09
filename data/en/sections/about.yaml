@@ -8,17 +8,17 @@ section:
   template: sections/about.html
 
 # your designation
-designation: IT Associate
+designation: Network Engineer
 # your company information
 company:
-  name: PowerON Services inc.
-  url: "https://poweron.com"
+  name: Centene Corporation
+  url: "https://www.centene.com"
 
 # your resume. this file path should be relative to you "static" directory
 resume: "files/SamuelMcPhersonResume.pdf"
 
 # a summary about you
-summary: 'I enjoy working with Linux based systems and have nine years of experience using them. In addition to my work at PowerOn, I actively maintain a home lab environment to continue learning and keep my skills sharp. My lab is primarily used to practice optimizing network and storage perfomance as well as learning newer technologies such as Docker containers and Ansible configuration management.'
+summary: 'I enjoy working with Linux based systems and have ten years of experience using them. In addition to my work at Centene, I actively maintain a home lab environment to continue learning and keep my skills sharp. My lab is primarily used to practice optimizing network and storage perfomance as well as learning technologies such as Docker containers and Ansible configuration management.'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
